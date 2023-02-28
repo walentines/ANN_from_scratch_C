@@ -1,0 +1,2 @@
+# ANN_from_scratch_C
+This is an implementation of an Artificial Neural Network in C++ (with the preprocessing of the data made in Python) using the Eigen library for linear algebra. The dataset I used to train the model is available in pulsar_stars.csv This was done for research purposes to see how faster the model trains in C++ than in Python, the conclusion being that the amount of time spending trying to implement the training in C++ isn't worth it for faster training speed purposes only.
